@@ -1,0 +1,5 @@
+olives 23
+banana 24
+cake 23
+chips 9
+banana 24
