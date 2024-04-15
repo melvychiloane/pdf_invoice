@@ -5,10 +5,12 @@ To run the project you need
   (Optional) a file containing the items and their prices
   if no file is provided you will be required to enter the items and prices manually on the terminal when prompted
 
-  ## Invoice number(Could be anything for now)
+## compulsory 
+
+  - Invoice number(Could be anything for now)
   
-  ## Billing date 
+  -  Billing date 
   
-  ## Customer Id 
+  -  Customer Id 
   
-  ## Due date 
+  - Due date 
